@@ -2,7 +2,7 @@
 <a href="https://www.instagram.com/wilsonwid">
   <img alt="@wilsonwid" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="https://twitter.com/wilsonwid_>
+<a href="https://twitter.com/wilsonwid_">
   <img alt="@wilsonwid_" src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/wilsonwid">
