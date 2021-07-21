@@ -1,6 +1,9 @@
 ## Bello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" /> [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=wilsonwid)](https://github.com/wilsonwid)
 <a href="https://www.instagram.com/wilsonwid">
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img alt="@wilsonwid" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://twitter.com/wilsonwid_>
+  <img alt="@wilsonwid_" src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/wilsonwid">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -16,6 +19,8 @@
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=wilsonwid&count_private=true&hide_border=true&show_icons=true&theme=react&include_all_commits=true&hide=stars&title_color=dd58c1&icon_color=dd58c1&custom_title=My GitHub Stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonwid&langs_count=10&theme=react&hide_border=true&layout=compact&exclude_repo=nusmods&title_color=dd58c1"/>
 </div>
+
+
 <!--
 **wilsonwid/wilsonwid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
