@@ -1,9 +1,9 @@
 ## Bello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" /> [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=wilsonwid)](https://github.com/wilsonwid)
 <a href="https://www.instagram.com/wilsonwid">
-  <img alt="@wilsonwid" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img alt="@wilsonwid" src="https://img.shields.io/badge/@wilsonwid-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <a href="https://twitter.com/wilsonwid_">
-  <img alt="@wilsonwid_" src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  <img alt="@wilsonwid_" src="https://img.shields.io/badge/@wilsonwid_-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/wilsonwid">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
