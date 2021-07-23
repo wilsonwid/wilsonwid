@@ -17,7 +17,7 @@
 
 <div align="center">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=wilsonwid&count_private=true&hide_border=true&show_icons=true&theme=react&include_all_commits=true&hide=stars&title_color=dd58c1&icon_color=dd58c1&custom_title=My GitHub Stats" />
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonwid">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonwid&count_private=true&hide_border=true&show_icons=true&theme=react">
 
 
 
