@@ -21,7 +21,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=wilsonwid&layout=default&theme=react&title_color=dd58c1&custom_title=Wakatime Stats"/></a>
 
 <h2>Github Stats</h2>
-<p style="font-size: 50%;"><a href="https://github.com/anuraghazra/github-readme-stats">Credits</a></p>
+<p style="font-size: 20%;"><a href="https://github.com/anuraghazra/github-readme-stats">Credits</a></p>
 
 <div align="left">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=wilsonwid&count_private=true&hide_border=true&show_icons=true&theme=react&include_all_commits=true&hide=stars&title_color=dd58c1&icon_color=dd58c1&custom_title=GitHub Stats">
