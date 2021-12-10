@@ -1,6 +1,7 @@
 ## Bello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" /> [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=wilsonwid)](https://github.com/wilsonwid)
 
 <h2>Contacts</h2>
+<p>Feel free to contact me through any of the social media platforms below! :) </p>
 <a href="https://www.instagram.com/wilsonwid">
   <img alt="@wilsonwid" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
