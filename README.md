@@ -1,8 +1,9 @@
 ## Bello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" /> [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=wilsonwid)](https://github.com/wilsonwid)
 
+<p>Hey there! I'm Wilson Widyadhana, and this is my personal repository for most (if not all) of my codes made throuhgout my journey through CS. Please feel free to contact me for any business or personal opportunities through the links below!</p>
+<p>P.S.: Please also feel free to fork or star any of my publicly-available repositories :)</p>
 
-
-<h2>Contacts</h2>
+<h3>Contacts</h3>
 <p>Feel free to contact me through any of the social media platforms below! :) </p>
 <a href="https://www.instagram.com/wilsonwid">
   <img alt="@wilsonwid" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
