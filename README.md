@@ -1,5 +1,7 @@
 ## Bello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" /> [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=wilsonwid)](https://github.com/wilsonwid)
 
+<p>Profile picture by <a href="https://unsplash.com/photos/_8mos_CBmBM">@kilimanjarostudioz</a>, taken from <a href="https://unsplash.com/photos/_8mos_CBmBM">Unsplash</a>.</p>
+
 <h2>Contacts</h2>
 <p>Feel free to contact me through any of the social media platforms below! :) </p>
 <a href="https://www.instagram.com/wilsonwid">
