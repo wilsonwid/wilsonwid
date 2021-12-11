@@ -1,7 +1,7 @@
 ## Bello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" /> [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=wilsonwid)](https://github.com/wilsonwid)
 
-<p>Hey there! I'm Wilson Widyadhana, and this is my personal repository for most (if not all) of my codes made throuhgout my journey through CS. Please feel free to contact me for any business or personal opportunities through the links below!</p>
-<p>P.S.: Please also feel free to fork or star any of my publicly-available repositories :)</p>
+<p>Hey there! I'm Wilson Widyadhana, and this is my personal repository for most (if not all) of my codes made throughout my CS journey. Please feel free to contact me for any business, professional, or personal opportunities through the links below!</p>
+<p>P.S.: Feel free to fork or star any of my publicly-available repositories :)</p>
 
 <h3>Contacts</h3>
 <p>Feel free to contact me through any of the social media platforms below! :) </p>
