@@ -1,6 +1,6 @@
 ## Bello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" /> [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=wilsonwid)](https://github.com/wilsonwid)
 
-<p>Profile picture by <a href="https://unsplash.com/photos/_8mos_CBmBM">@kilimanjarostudioz</a>, taken from <a href="https://unsplash.com/photos/_8mos_CBmBM">Unsplash</a>.</p>
+
 
 <h2>Contacts</h2>
 <p>Feel free to contact me through any of the social media platforms below! :) </p>
@@ -35,5 +35,8 @@
   </summary>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=wilsonwid&layout=default&theme=react&title_color=dd58c1&custom_title=Wakatime Statistics"/></a>
 </details>
+
+<h2>Acknowledgement(s)</h2>
+<p>Profile picture by <a href="https://unsplash.com/photos/_8mos_CBmBM">@kilimanjarostudioz</a>, taken from <a href="https://unsplash.com/photos/_8mos_CBmBM">Unsplash</a>.</p>
 
 
