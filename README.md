@@ -39,6 +39,6 @@
 
 <h3>Acknowledgement(s)</h3>
 <p>Profile picture by <a href="https://unsplash.com/photos/_8mos_CBmBM">@kilimanjarostudioz</a>, taken from <a href="https://unsplash.com/photos/_8mos_CBmBM">Unsplash</a>.</p>
-<p>Inspiration for this README from <a href="https://github.com/RussellDash332">Russell</a>. Do check his page out for cooler implementations!</p>
+<p>Inspiration for this README from <a href="https://github.com/RussellDash332">Russell Saerang</a>. Do check his page out for cooler implementations!</p>
 
 
