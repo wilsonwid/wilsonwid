@@ -29,8 +29,8 @@
 <h3>Github/Coding Statistics</h3>
 <hr>
 <div align="left">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=wilsonwid&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&title_color=8ddbf7&count_private=true&icon_color=dd58c1&custom_title=GitHub Stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonwid&count_private=true&theme=tokyonight&title_color=8ddbf7&layout=compact">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="top" src="https://github-readme-stats.vercel.app/api?username=wilsonwid&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&title_color=8ddbf7&count_private=true&icon_color=dd58c1&custom_title=GitHub Stats"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonwid&count_private=true&theme=tokyonight&title_color=8ddbf7&layout=compact"></a>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=wilsonwid&custom_title=Contribution%20Graph&theme=react-dark&area=true&"/></a>
 </div>
 
@@ -47,7 +47,8 @@
 
 <h3>Acknowledgement(s)</h3>
 <hr>
-<p>Profile picture by <a href="https://unsplash.com/photos/_8mos_CBmBM">@kilimanjarostudioz</a>, taken from <a href="https://unsplash.com/photos/_8mos_CBmBM">Unsplash</a>.</p>
-<p>Inspiration for this README from <a href="https://github.com/RussellDash332">Russell Saerang</a>. Do check his page out for cooler implementations!</p>
-
+<ul>
+  <li>Profile picture by <a href="https://unsplash.com/photos/_8mos_CBmBM">@kilimanjarostudioz</a>, taken from <a href="https://unsplash.com/photos/_8mos_CBmBM">Unsplash</a>.</li>
+  <li>Inspiration for this README from <a href="https://github.com/RussellDash332">Russell Saerang</a>. Do check his page out for cooler implementations!</li>
+  <li>GitHub README stats from <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a> and <a href="https://github.com/ashutosh00710/github-readme-activity-graph">ashutosh00710</a>.</li>
 
