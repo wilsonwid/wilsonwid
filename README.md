@@ -30,7 +30,7 @@
 <hr>
 <div align="left">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=wilsonwid&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&title_color=8ddbf7&count_private=true&icon_color=dd58c1&custom_title=GitHub Stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonwid&count_private=true&theme=tokyonight&title_color=8ddbf7&layout=default">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonwid&count_private=true&theme=tokyonight&title_color=8ddbf7&layout=compact">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=wilsonwid&custom_title=Contribution%20Graph&theme=react-dark&area=true&"/></a>
 </div>
 
