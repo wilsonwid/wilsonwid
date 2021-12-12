@@ -26,7 +26,7 @@
 
 <br>
 
-<h3>Github/Coding Statistics</h3>
+<h3>GitHub/Coding Statistics</h3>
 <hr>
 <div align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="top" src="https://github-readme-stats.vercel.app/api?username=wilsonwid&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&line_height=23px&title_color=8ddbf7&count_private=true&icon_color=dd58c1&custom_title=GitHub Stats"></a>
