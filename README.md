@@ -5,7 +5,7 @@
 
 <br>
 
-<h3>Contacts</h3>
+<h3>Contacts/Profiles</h3>
 <hr>
 <p>Feel free to contact me through any of the social media platforms below! :) </p>
 <a href="https://www.instagram.com/wilsonwid">
@@ -32,16 +32,10 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="top" src="https://github-readme-stats.vercel.app/api?username=wilsonwid&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&line_height=23px&title_color=8ddbf7&count_private=true&icon_color=dd58c1&custom_title=GitHub Stats"></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonwid&count_private=true&theme=tokyonight&title_color=8ddbf7&layout=compact&card_width=400px"></a>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=wilsonwid&custom_title=Contribution%20Graph&theme=react-dark&area=true&"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=wilsonwid&layout=default&theme=tokyonight&title_color=8ddbf7&custom_title=Wakatime Stats"/></a>
 </div>
 
-<br>
 
-<details>
-  <summary>
-    <b>Wakatime Statistics</b>
-  </summary>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=wilsonwid&layout=default&theme=react&title_color=dd58c1&custom_title=Wakatime Stats"/></a>
-</details>
 
 <br>
 
