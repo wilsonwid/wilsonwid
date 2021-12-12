@@ -4,6 +4,7 @@
 <p>P.S.: Feel free to fork or star any of my publicly-available repositories :)</p>
 
 <h3>Contacts</h3>
+<hr>
 <p>Feel free to contact me through any of the social media platforms below! :) </p>
 <a href="https://www.instagram.com/wilsonwid">
   <img alt="@wilsonwid" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -22,7 +23,7 @@
 </a>
 
 <h3>Github/Coding Statistics</h3>
-
+<hr>
 <div align="left">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=wilsonwid&count_private=true&hide_border=true&show_icons=true&theme=react&include_all_commits=true&hide=stars&title_color=dd58c1&icon_color=dd58c1&custom_title=GitHub Stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonwid&count_private=false&hide_border=true&theme=react&title_color=dd58c1&layout=compact">
@@ -38,6 +39,7 @@
 </details>
 
 <h3>Acknowledgement(s)</h3>
+<hr>
 <p>Profile picture by <a href="https://unsplash.com/photos/_8mos_CBmBM">@kilimanjarostudioz</a>, taken from <a href="https://unsplash.com/photos/_8mos_CBmBM">Unsplash</a>.</p>
 <p>Inspiration for this README from <a href="https://github.com/RussellDash332">Russell Saerang</a>. Do check his page out for cooler implementations!</p>
 
