@@ -29,7 +29,7 @@
 <h3>Github/Coding Statistics</h3>
 <hr>
 <div align="left">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=wilsonwid&count_private=true&hide_border=true&show_icons=true&theme=react&include_all_commits=true&hide=stars&title_color=dd58c1&icon_color=dd58c1&custom_title=GitHub Stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=wilsonwid&count_private=true&hide_border=true&show_icons=true&theme=react&include_all_commits=true&hide=stars&title_color=dd58c1&count_private=true&icon_color=dd58c1&custom_title=GitHub Stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonwid&count_private=false&hide_border=true&theme=react&title_color=dd58c1&layout=compact">
 </div>
 
