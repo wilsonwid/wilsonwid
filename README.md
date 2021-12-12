@@ -3,6 +3,8 @@
 <p>Hey there! I'm Wilson Widyadhana, and this is my personal repository for most (if not all) of my codes made throughout my CS journey. Please feel free to contact me for any business, professional, or personal opportunities through the links below!</p>
 <p>P.S.: Feel free to fork or star any of my publicly-available repositories :)</p>
 
+<br>
+
 <h3>Contacts</h3>
 <hr>
 <p>Feel free to contact me through any of the social media platforms below! :) </p>
@@ -22,6 +24,8 @@
   <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 </a>
 
+<br>
+
 <h3>Github/Coding Statistics</h3>
 <hr>
 <div align="left">
@@ -37,6 +41,8 @@
   </summary>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=wilsonwid&layout=default&theme=react&title_color=dd58c1&custom_title=Wakatime Stats"/></a>
 </details>
+
+<br>
 
 <h3>Acknowledgement(s)</h3>
 <hr>
