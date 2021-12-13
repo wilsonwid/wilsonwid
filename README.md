@@ -57,6 +57,6 @@
 <hr>
 <ul>
   <li>Profile picture by <a href="https://unsplash.com/photos/_8mos_CBmBM">@kilimanjarostudioz</a>, taken from <a href="https://unsplash.com/photos/_8mos_CBmBM">Unsplash</a>.</li>
-  <li>Inspiration for this README from my mentor<a href="https://github.com/RussellDash332">Russell Saerang</a>. Do check his page out for cooler implementations!</li>
+  <li>Inspiration for this README from my mentor <a href="https://github.com/RussellDash332">Russell Saerang</a>. Do check his page out for cooler implementations!</li>
   <li>GitHub README stats from <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a> and <a href="https://github.com/ashutosh00710/github-readme-activity-graph">ashutosh00710</a>.</li>
 </ul>
