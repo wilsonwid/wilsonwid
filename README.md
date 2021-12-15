@@ -1,14 +1,12 @@
-## Hello! I'm Wilson! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" /> [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=wilsonwid)](https://github.com/wilsonwid)
-<h3>I'm currently a Data Science and Analytics undergraduate at the National University of Singapore</h3>
-
-<p>Hey there! This is my personal repository for most (if not all) of my codes made throughout my CS journey. Please feel free to contact me for any business, professional, or personal opportunities through the links below!</p>
+# Hello! I'm Wilson! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" /> [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=wilsonwid)](https://github.com/wilsonwid)
+<h3>I'm currently a Data Science and Analytics undergraduate at the National University of Singapore.</h3>
+<p>This is my personal repository for most (if not all) of my codes made throughout my CS journey. Please feel free to contact me for any business, professional, or personal opportunities through the links below!</p>
 <p>P.S.: Feel free to fork or star any of my publicly-available repositories :)</p>
 
 <br>
 
 
-<h3>Contacts/Profiles</h3>
-<hr>
+## Contacts/Profiles
 <p>Feel free to contact me through any of the social media platforms below! :) </p>
 <a href="https://www.instagram.com/wilsonwid">
   <img alt="@wilsonwid" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -28,8 +26,7 @@
 
 <br>
 
-<h3>GitHub/Coding Statistics</h3>
-<hr>
+## GitHub/Coding Statistics
 <div align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="top" src="https://github-readme-stats.vercel.app/api?username=wilsonwid&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&line_height=23px&title_color=8ddbf7&count_private=true&icon_color=dd58c1&custom_title=GitHub Stats"></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonwid&count_private=true&theme=tokyonight&title_color=8ddbf7&layout=compact"></a>
@@ -55,8 +52,7 @@
 
 <br>
 
-<h3>Acknowledgement(s)</h3>
-<hr>
+## Acknowledgement(s)
 <ul>
   <li>Profile picture by <a href="https://unsplash.com/photos/_8mos_CBmBM">@kilimanjarostudioz</a>, taken from <a href="https://unsplash.com/photos/_8mos_CBmBM">Unsplash</a>.</li>
   <li>Inspiration for this README from my mentor <a href="https://github.com/RussellDash332">Russell Saerang</a>. Do check his page out for cooler implementations!</li>
