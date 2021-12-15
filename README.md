@@ -3,10 +3,8 @@
 <p>This is my personal repository for most (if not all) of my codes made throughout my CS journey. Please feel free to contact me for any business, professional, or personal opportunities through the links below!</p>
 <p>P.S.: Feel free to fork or star any of my publicly-available repositories :)</p>
 
-<br>
-
-<h3>Currently learning/working on:</h3>
-- Java 
+<h3>Currently learning/working on: </h3>
+- Java
 - Linear Algebra
 - TensorFlow
 - Google Cloud
