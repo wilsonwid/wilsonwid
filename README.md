@@ -5,6 +5,11 @@
 
 <br>
 
+<h3>Currently learning/working on:</h3>
+- Java 
+- Linear Algebra
+- TensorFlow
+- Google Cloud
 
 ## Contacts/Profiles
 <p>Feel free to contact me through any of the social media platforms below! :) </p>
