@@ -4,10 +4,10 @@
 <p>P.S.: Feel free to fork or star any of my publicly-available repositories :)</p>
 
 <h3>Currently learning/working on: </h3>
-- Java
-- Linear Algebra
-- TensorFlow
-- Google Cloud
+* Java
+* Linear Algebra
+* TensorFlow
+* Google Cloud
 
 ## Contacts/Profiles
 <p>Feel free to contact me through any of the social media platforms below! :) </p>
