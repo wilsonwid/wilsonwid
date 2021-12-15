@@ -1,9 +1,11 @@
-## Bello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" /> [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=wilsonwid)](https://github.com/wilsonwid)
+## Hello! I'm Wilson! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" /> [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=wilsonwid)](https://github.com/wilsonwid)
+<h3>I'm currently a Data Science and Analytics undergraduate at the National University of Singapore</h3>
 
-<p>Hey there! I'm Wilson Widyadhana, and this is my personal repository for most (if not all) of my codes made throughout my CS journey. Please feel free to contact me for any business, professional, or personal opportunities through the links below!</p>
+<p>Hey there! This is my personal repository for most (if not all) of my codes made throughout my CS journey. Please feel free to contact me for any business, professional, or personal opportunities through the links below!</p>
 <p>P.S.: Feel free to fork or star any of my publicly-available repositories :)</p>
 
 <br>
+
 
 <h3>Contacts/Profiles</h3>
 <hr>
