@@ -1,13 +1,13 @@
-# Hello! I'm Wilson! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" /> [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=wilsonwid)](https://github.com/wilsonwid)
+# Hello there! I'm Wilson! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" /> [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=wilsonwid)](https://github.com/wilsonwid)
 <h3>I'm currently a Data Science and Analytics undergraduate at the National University of Singapore.</h3>
 <p>This is my personal repository for most (if not all) of my codes made throughout my CS journey. Please feel free to contact me for any business, professional, or personal opportunities through the links below!</p>
 <p>P.S.: Feel free to fork or star any of my publicly-available repositories :)</p>
-
-<h3>Currently learning/working on: </h3>
-* Java
-* Linear Algebra
-* TensorFlow
-* Google Cloud
+<h3>Languages and Technologies:</h3>
+<p>
+  - Python
+  - Git
+  - Java
+</p>
 
 ## Contacts/Profiles
 <p>Feel free to contact me through any of the social media platforms below! :) </p>
