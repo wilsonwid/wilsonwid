@@ -61,7 +61,7 @@
 
 ## Acknowledgement(s)
 <ul>
-  <li>Profile picture by <a href="https://unsplash.com/@piermanuele_sberni">@piermanuele_sberni</a>, taken from <a href="https://unsplash.com/photos/d_QNXgRRKJ0">Unsplash</a>.</li>
+  <li>Profile picture by <a href="https://unsplash.com/@piermanuele_sberni" target="_blank">@piermanuele_sberni</a>, taken from <a href="https://unsplash.com/photos/d_QNXgRRKJ0">Unsplash</a>.</li>
   <li>Inspiration for this README from <a href="https://github.com/pakshuang/pakshuang/">Pak Shuang</a> and <a href="https://github.com/RussellDash332">Russell Saerang</a>. Do check out their pages for awesome and cool stuff!
   <li>GitHub README stats from <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a> and <a href="https://github.com/ashutosh00710/github-readme-activity-graph">ashutosh00710</a>.</li>
 </ul>
