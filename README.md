@@ -1,6 +1,6 @@
-# Hello there! I'm Wilson! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" /> [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=wilsonwid)](https://github.com/wilsonwid)
+# Hello there, nice to meet you! I'm Wilson! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" /> [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=wilsonwid)](https://github.com/wilsonwid)
 <h3>I'm currently a Data Science and Analytics (DSA) undergraduate at the National University of Singapore.</h3>
-<p>This is my personal repository for most (if not all) of my codes made throughout my Computer Science journey. Please feel free to contact me for any business, professional, or personal opportunities through the links below!</p>
+<p>This is my personal repository for most (if not all) of my code. Please feel free to contact me for any business, professional, or personal opportunities through the clickable links below!</p>
 <p>P.S.: Feel free to fork or star any of my publicly-available repositories :)</p>
 
 ## Languages/Technologies:
