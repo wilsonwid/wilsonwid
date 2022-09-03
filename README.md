@@ -45,7 +45,7 @@
   <summary>
     <b>Wakatime Statistics</b>
   </summary>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=wilsonwid&layout=default&theme=tokyonight&title_color=8ddbf7&custom_title=Wakatime Stats"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=wilsonwid&layout=compact&theme=tokyonight&title_color=dd58c1&custom_title=Wakatime%20Stats"/></a>
 </details>
 
 <br>
