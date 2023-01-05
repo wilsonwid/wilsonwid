@@ -1,5 +1,5 @@
 # Hello there, nice to meet you! I'm Wilson! 👋 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=wilsonwid)](https://github.com/wilsonwid)
-<h3>I'm currently a Data Science and Analytics (DSA) undergraduate at the National University of Singapore.</h3>
+<h3>I'm currently doing an undergraduate double degree in Data Science and Analytics (DSA) and Computer Science (CS) at the National University of Singapore.</h3>
 <p>This is my personal repository for most (if not all) of my code. Please feel free to contact me for any business, professional, or personal opportunities through the clickable links below!</p>
 <p>P.S.: Feel free to fork or star any of my publicly-available repositories :)</p>
 
