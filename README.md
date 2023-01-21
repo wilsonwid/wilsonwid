@@ -30,7 +30,7 @@
 ## GitHub/Coding Statistics
 <div align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="top" src="https://github-readme-stats.vercel.app/api?username=wilsonwid&count_private=true&hide_rank=false&show_icons=true&theme=tokyonight&include_all_commits=true&title_color=dd58c1&icon_color=dd58c1&custom_title=Wilson's%20GitHub%20Stats" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonwid&count_private=true&theme=tokyonight&title_color=8ddbf7&layout=compact&hide=jupyter%20notebook,css,scss"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonwid&count_private=true&theme=tokyonight&title_color=8ddbf7&layout=compact&hide=jupyter%20notebook,css,scss,html"></a>
 </div>
 
 <br>
