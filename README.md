@@ -39,7 +39,7 @@
   <summary>
     <b>Contribution Timeline</b>
   </summary>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=wilsonwid&custom_title=Contribution%20Graph&theme=react-dark&area=true&"/></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=wilsonwid&custom_title=Contribution%20Graph&theme=react-dark&area=true&"/></a>
  </details>
  
  <br>
