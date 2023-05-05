@@ -43,104 +43,10 @@
  </details>
  
  <br>
- 
- <details>
-  <summary>
-    <b>Wakatime Statistics</b>
-  </summary>
-  <!--START_SECTION:waka-->
-  
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C109%20hrs%2017%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 972.0 kB Used in GitHub's Storage 
- > 
-> 🏆 571 Contributions in the Year 2023
- > 
-> 💼 Opted to Hire
- > 
-> 📜 13 Public Repositories 
- > 
-> 🔑 26 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                177 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-🌆 Daytime                726 commits         █████████░░░░░░░░░░░░░░░░   35.47 % 
-🌃 Evening                920 commits         ███████████░░░░░░░░░░░░░░   44.94 % 
-🌙 Night                  224 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   275 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-Tuesday                  210 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-Wednesday                253 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-Thursday                 378 commits         █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
-Friday                   291 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Saturday                 383 commits         █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
-Sunday                   257 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Singapore
-
-💬 Programming Languages: 
-Python                   10 hrs 40 mins      ████████████████████░░░░░   80.63 % 
-Markdown                 2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-
-🔥 Editors: 
-VS Code                  13 hrs 13 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-ailytics_assignment_2023 7 hrs 45 mins       ███████████████░░░░░░░░░░   58.61 % 
-pytorch-stuff            3 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
-yolov7                   2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-CS6208_2023              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-
-💻 Operating System: 
-Mac                      13 hrs 13 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Jupyter Notebook** 
-
-```text
-Jupyter Notebook         13 repos            █████████░░░░░░░░░░░░░░░░   37.14 % 
-Python                   7 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-TeX                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-PLpgSQL                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/wilsonwid/wilsonwid/main/assets/bar_graph.png)
-
-
- Last Updated on 05/05/2023 17:50:11 UTC
- 
-<!--END_SECTION:waka-->
-
-</details>
-
-<br>
 
 ## Acknowledgement(s)
 <ul>
   <li>Profile picture by <a href="https://unsplash.com/@piermanuele_sberni">@piermanuele_sberni</a>, taken from <a href="https://unsplash.com/photos/d_QNXgRRKJ0">Unsplash</a>.</li>
   <li>Inspiration for this README from <a href="https://github.com/pakshuang/pakshuang/">Pak Shuang</a> and <a href="https://github.com/RussellDash332">Russell Saerang</a>. Do check out their pages for awesome and cool stuff!
   <li>GitHub README stats from <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a> and <a href="https://github.com/ashutosh00710/github-readme-activity-graph">ashutosh00710</a>.</li>
-  <li>WakaTime stats from <a href="https://github.com/anmol098/waka-readme-stats">anmol098</a>.</li>
 </ul>
