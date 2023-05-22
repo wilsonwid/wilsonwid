@@ -8,9 +8,17 @@
   <a href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg" width="40" height="40"></a>
   <a href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg" width="40" height="40"></a>
   <a href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg" width="40" height="40"></a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" /></a>
   <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"></a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="40" /></a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/></a>
   <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"></a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" height="40"></a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/></a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" /></a>
+  <a href="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40" /></a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="40" /></a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" width="40" /></a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" /></a>
 </p>
 
 ## Contacts/Profiles
