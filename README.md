@@ -43,7 +43,6 @@ Reach out to me via the platforms below! My resume is available on request or on
 
 ## Contribution Timeline
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=wilsonwid&custom_title=Contribution%20Graph&theme=react-dark&area=true&"/></a>
-</details>
 
 ## Acknowledgement(s)
 - Profile picture by [@piermanuele_sberni](https://unsplash.com/@piermanuele_sberni) on [Unsplash](https://unsplash.com/photos/d_QNXgRRKJ0).
