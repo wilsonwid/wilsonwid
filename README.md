@@ -1,18 +1,17 @@
 # Hello there, nice to meet you! I'm Wilson! 👋 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=wilsonwid)](https://github.com/wilsonwid)
-### I'm currently a penultimate student taking a double degree in Data Science and Analytics (DSA) and Computer Science (CS) at the National University of Singapore.
+
+I'm currently a penultimate student taking a double degree in Data Science and Analytics (DSA) and Computer Science (CS) at the National University of Singapore.
 
 Please feel free to contact me through the clickable links below! I'm currently interested in quantitative research/trading and machine learning opportunities in Singapore.
 
 ## 📖 Currently reading:
-
-### Academic reading
+### 🏫 Academic reading(s):
 - A Primer for the Mathematics of Financial Engineering (Stefanica)
 - Mathematics of Machine Learning (Deisenroth, Faisal, and Ong)
 - A Practical Guide to Quantitative Finance Interviews (Zhou)
 
-### Casual reading
+### 🧩 Casual reading(s):
 - TED Talks: The Official TED Guide to Public Speaking (Anderson)
-
 
 ## 💻 Languages/Technologies:
 <p align="left">
