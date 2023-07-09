@@ -1,10 +1,20 @@
 # Hello there, nice to meet you! I'm Wilson! 👋 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=wilsonwid)](https://github.com/wilsonwid)
 ### I'm currently a penultimate student taking a double degree in Data Science and Analytics (DSA) and Computer Science (CS) at the National University of Singapore.
 
-Please feel free to contact me through the clickable links below! I'm currently interested in quantitative research/trading and machine learning opportunities in Singapore. 
+Please feel free to contact me through the clickable links below! I'm currently interested in quantitative research/trading and machine learning opportunities in Singapore.
+
+## 📖 Currently reading:
+
+### Academic reading
+- A Primer for the Mathematics of Financial Engineering (Stefanica)
+- Mathematics of Machine Learning (Deisenroth, Faisal, and Ong)
+- A Practical Guide to Quantitative Finance Interviews (Zhou)
+
+### Casual reading
+- TED Talks: The Official TED Guide to Public Speaking (Anderson)
 
 
-## Languages/Technologies:
+## 💻 Languages/Technologies:
 <p align="left">
   <a href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg" width="40" height="40"></a>
   <a href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg" width="40" height="40"></a>
@@ -22,7 +32,7 @@ Please feel free to contact me through the clickable links below! I'm currently 
   <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" /></a>
 </p>
 
-## Contacts/Profiles
+## 📱 Contacts/Profiles
 Reach out to me via the platforms below! My resume is available on request or on [my personal website](https://wilsonwid.com).
 
 <div align="left">
@@ -33,7 +43,7 @@ Reach out to me via the platforms below! My resume is available on request or on
 
 <br>
 
-## GitHub/Coding Statistics
+## 👨‍💻 GitHub/Coding Statistics
 <div align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="top" src="https://github-readme-stats.vercel.app/api?username=wilsonwid&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&title_color=dd58c1&icon_color=dd58c1&custom_title=Wilson's%20GitHub%20Stats" /></a>
   <br /><br />
@@ -41,10 +51,10 @@ Reach out to me via the platforms below! My resume is available on request or on
 </div>
 
 
-## Contribution Timeline
+## 📊 Contribution Timeline
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=wilsonwid&custom_title=Contribution%20Graph&theme=react-dark&area=true&"/></a>
 
-## Acknowledgement(s)
+## ✍️ Acknowledgement(s)
 - Profile picture by [@piermanuele_sberni](https://unsplash.com/@piermanuele_sberni) on [Unsplash](https://unsplash.com/photos/d_QNXgRRKJ0).
 - Inspiration for this README from [Lee Pak Shuang](https://github.com/pakshuang/pakshuang/) and [Russell Saerang](https://github.com/RussellDash332). Do check out their GitHub profiles for more awesome and cool stuff!
 - GitHub README stats from [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and [ashutosh00710](https://github.com/ashutosh00710/github-readme-activity-graph)
