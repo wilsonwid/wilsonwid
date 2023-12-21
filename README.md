@@ -1,6 +1,6 @@
 # Hello there, nice to meet you! I'm Wilson! 👋 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=wilsonwid)](https://github.com/wilsonwid)
 
-I'm currently a penultimate student taking a double degree in Data Science and Analytics (DSA) and Computer Science (CS) at the National University of Singapore.
+I'm currently a penultimate student taking a double degree in Data Science and Analytics (DSA) and Computer Science (CS) at the National University of Singapore (NUS).
 
 Please feel free to reach out through the clickable links below! I'm currently interested in quantitative research/trading, machine learning, or data analytics/science opportunities located in Singapore.
 
