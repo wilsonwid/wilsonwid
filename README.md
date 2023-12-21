@@ -2,16 +2,16 @@
 
 I'm currently a penultimate student taking a double degree in Data Science and Analytics (DSA) and Computer Science (CS) at the National University of Singapore.
 
-Please feel free to contact me through the clickable links below! I'm currently interested in quantitative research/trading and machine learning opportunities in Singapore.
+Please feel free to reach out through the clickable links below! I'm currently interested in quantitative research/trading, machine learning, or data analytics/science opportunities located in Singapore.
 
 ## 📖 Currently reading:
 ### 🏫 Academic reading(s):
-- A Primer for the Mathematics of Financial Engineering (Stefanica)
-- Mathematics of Machine Learning (Deisenroth, Faisal, and Ong)
-- A Practical Guide to Quantitative Finance Interviews (Zhou)
+- Mathematics of Machine Learning (by Deisenroth, Faisal, and Ong)
+- Natural Language Processing with Transformers (by Tunstall, Werra, and Wolf)
 
 ### 🧩 Casual reading(s):
-- TED Talks: The Official TED Guide to Public Speaking (Anderson)
+- Range: How Generalists Triumph in a Specialized World (by David Epstein)
+- The Daily Stoic (by Ryan Holiday and Stephen Hanselman)
 
 ## 💻 Languages/Technologies:
 <p align="left">
